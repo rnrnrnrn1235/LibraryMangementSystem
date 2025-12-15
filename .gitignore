@@ -1,0 +1,7 @@
+mongo_data/
+*.archive
+.DS_Store
+node_modules/
+target/
+.mvn/
+wrapper/
